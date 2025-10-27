@@ -1,0 +1,7 @@
+Conclusiones
+
+1. El reporte generado por SerenityBDD muestra que todos los pasos dentro del escenerio de prueba fueron ejecutados sin error, mostrando que todas las validaciones requeridas por el ejercicio se desarrollaron de forma adecuada.
+2. Gracias a la utilizacion de Cucumber es posible establecer un flujo claro, organizado y secuencial de los pasos para la ejecución de la prueba funcional E2E, facilitando que cualquier persona involucrada en el proyecto lo pueda entender.
+3. Fue necesario agregar pausas en la ejecución de los pasos del escenario, con el objetivo de facilitar la visualización del proceso desarrollado en cada paso.
+4. Es posible observar que en el reporte generado por SerenityBDD, cada uno de los pasos desarrollados en el escenario tiene una captura de pantalla asociada, las cuales muestran la ejecucion desarrollada dentro de la pagina Web.
+5. La utilizacion de SerenityBDD permite reutilizar pasos comunes entre distintos escenarios, reduciendo duplicación y posibles errores. 
