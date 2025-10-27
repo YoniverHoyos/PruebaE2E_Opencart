@@ -13,14 +13,14 @@ Para la eleaboracion del proyecto se utiliza IntelliJ Idea Community Edition 202
 Pasos para clonar el repositorio:
 En este caso se utiliza IntelliJ Idea Community Edition 2025.2.3 para clonar el repositorio desde Github.
 
-1. El primer paso es ir a la opcion de Git->clone
-2. Luego copiar el link del repositorio en la opcion de url.
-3. Se puede modificar la carpeta donde se clona el repositorio o simplemente dejar la opcion que entrega por defecto.
-4. click en en el boton de Clone.
+1. Ir a la opcion de Git->clone
+2. Copiar el link del repositorio en la opcion de url.
+3. Modificar la carpeta donde se clona el repositorio o simplemente dejar la opcion que entrega por defecto.
+4. Click en en el boton de Clone.
 
 Pasos para ejecutar el repositorio:
 1. Ejecutar el archivo Runner ubicado en src/test/java/com/opencart/co/Runner.java
-2. El archivo ejecuta el codigo abriendo el navegador web y realizando las verificaciones requeridas por el ejercicio.
+2. Esperar la ejecución del codigo por parte de Intellij, manipulando el navegador web y realizando las verificaciones requeridas.
 
 Luego de la ejecución es posible ejecutar el comando maven (mvn serenity:aggregate) en la ventana de Execute Maven Goal, ubicada a la derecha del projecto en Intellij. 
 
