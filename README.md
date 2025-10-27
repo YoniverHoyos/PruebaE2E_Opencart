@@ -3,10 +3,10 @@ Ejercicio 1: Prueba Funcional automatizada (Prueba E2E) de un flujo de compra en
 Este repositorio contiene el codigo desarrollado en Selenium + Cucumber + Serenity BDD que cumple con los siguientes requerimientos:
 
 Realiza una prueba funcional automatizada (Prueba E2E) de un flujo de compra la página http://opencart.abstracta.us/ que incluya:
-• Agregar dos productos al carrito
-• Visualizar el carrito
-• Completar el “Checkout” como invitado: “Guest Checkout”
-• Finalizar la compra hasta la confirmación: “Your order has been placed!”
+1. Agregar dos productos al carrito
+2. Visualizar el carrito
+3. Completar el “Checkout” como invitado: “Guest Checkout”
+4. Finalizar la compra hasta la confirmación: “Your order has been placed!”
 
 Para la eleaboracion del proyecto se utiliza IntelliJ Idea Community Edition 2025.2.3 y el JDK Oracle OpenJDK 21.0.8.
 
